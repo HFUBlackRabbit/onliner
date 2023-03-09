@@ -1,0 +1,4 @@
+.idea
+complex/vendor
+complex/.env
+complex/composer.lock
